@@ -1,0 +1,56 @@
+[
+  {
+    "prev_pitch_type": "KC",
+    "next_pitch_type": "CH",
+    "label": "KC \u2192 CH",
+    "support_hitter_ahead": 0.0209003215434083,
+    "support_even": 0.058252427184466,
+    "support_pitcher_ahead": 0.0482573726541554,
+    "range": 0.037352105641057703
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "CH",
+    "label": "FF \u2192 CH",
+    "support_hitter_ahead": 0.040192926045016,
+    "support_even": 0.0647249190938511,
+    "support_pitcher_ahead": 0.0777479892761394,
+    "range": 0.037555063231123405
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "FC",
+    "label": "FF \u2192 FC",
+    "support_hitter_ahead": 0.0643086816720257,
+    "support_even": 0.0258899676375404,
+    "support_pitcher_ahead": 0.03485254691689,
+    "range": 0.03841871403448531
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "FF",
+    "label": "FF \u2192 FF",
+    "support_hitter_ahead": 0.1511254019292604,
+    "support_even": 0.1100323624595469,
+    "support_pitcher_ahead": 0.1340482573726541,
+    "range": 0.041093039469713516
+  },
+  {
+    "prev_pitch_type": "SI",
+    "next_pitch_type": "KC",
+    "label": "SI \u2192 KC",
+    "support_hitter_ahead": 0.0112540192926045,
+    "support_even": 0.0550161812297734,
+    "support_pitcher_ahead": 0.0616621983914209,
+    "range": 0.0504081790988164
+  },
+  {
+    "prev_pitch_type": "FC",
+    "next_pitch_type": "KC",
+    "label": "FC \u2192 KC",
+    "support_hitter_ahead": 0.0160771704180064,
+    "support_even": 0.0517799352750809,
+    "support_pitcher_ahead": 0.0723860589812332,
+    "range": 0.0563088885632268
+  }
+]

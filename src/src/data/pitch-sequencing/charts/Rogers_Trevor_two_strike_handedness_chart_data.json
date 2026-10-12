@@ -1,0 +1,50 @@
+[
+  {
+    "pitch_1": "CH",
+    "pitch_2": "CH",
+    "label": "CH \u2192 CH",
+    "support_L": 0.02,
+    "support_R": 0.059322033898305,
+    "abs_diff": 0.039322033898305006
+  },
+  {
+    "pitch_1": "ST",
+    "pitch_2": "SI",
+    "label": "ST \u2192 SI",
+    "support_L": 0.0866666666666666,
+    "support_R": 0.0423728813559322,
+    "abs_diff": 0.0442937853107344
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "ST",
+    "label": "FF \u2192 ST",
+    "support_L": 0.0866666666666666,
+    "support_R": 0.1313559322033898,
+    "abs_diff": 0.04468926553672321
+  },
+  {
+    "pitch_1": "SI",
+    "pitch_2": "FC",
+    "label": "SI \u2192 FC",
+    "support_L": 0.06,
+    "support_R": 0.0084745762711864,
+    "abs_diff": 0.051525423728813594
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "CH",
+    "label": "FF \u2192 CH",
+    "support_L": 0.0666666666666666,
+    "support_R": 0.1673728813559322,
+    "abs_diff": 0.1007062146892656
+  },
+  {
+    "pitch_1": "CH",
+    "pitch_2": "FF",
+    "label": "CH \u2192 FF",
+    "support_L": 0.0266666666666666,
+    "support_R": 0.1567796610169491,
+    "abs_diff": 0.1301129943502825
+  }
+]

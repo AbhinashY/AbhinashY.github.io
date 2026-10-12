@@ -1,0 +1,50 @@
+[
+  {
+    "pitch_1": "FF",
+    "pitch_2": "FC",
+    "label": "FF \u2192 FC",
+    "support_L": 0.1752988047808765,
+    "support_R": 0.0756880733944954,
+    "abs_diff": 0.0996107313863811
+  },
+  {
+    "pitch_1": "SI",
+    "pitch_2": "FF",
+    "label": "SI \u2192 FF",
+    "support_L": 0.1792828685258964,
+    "support_R": 0.0768348623853211,
+    "abs_diff": 0.1024480061405753
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "SI",
+    "label": "FF \u2192 SI",
+    "support_L": 0.2151394422310757,
+    "support_R": 0.0883027522935779,
+    "abs_diff": 0.1268366899374978
+  },
+  {
+    "pitch_1": "CH",
+    "pitch_2": "CH",
+    "label": "CH \u2192 CH",
+    "support_L": 0.0318725099601593,
+    "support_R": 0.1788990825688073,
+    "abs_diff": 0.147026572608648
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "CH",
+    "label": "FF \u2192 CH",
+    "support_L": 0.1314741035856573,
+    "support_R": 0.3245412844036697,
+    "abs_diff": 0.19306718081801238
+  },
+  {
+    "pitch_1": "CH",
+    "pitch_2": "FF",
+    "label": "CH \u2192 FF",
+    "support_L": 0.0637450199203187,
+    "support_R": 0.2672018348623853,
+    "abs_diff": 0.2034568149420666
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "pitch_1": "KC",
+    "pitch_2": "CH",
+    "label": "KC \u2192 CH",
+    "support_L": 0.0608695652173913,
+    "support_R": 0.0,
+    "abs_diff": 0.0608695652173913
+  },
+  {
+    "pitch_1": "KC",
+    "pitch_2": "SI",
+    "label": "KC \u2192 SI",
+    "support_L": 0.0,
+    "support_R": 0.08,
+    "abs_diff": 0.08
+  },
+  {
+    "pitch_1": "CH",
+    "pitch_2": "FF",
+    "label": "CH \u2192 FF",
+    "support_L": 0.0826086956521739,
+    "support_R": 0.0,
+    "abs_diff": 0.0826086956521739
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "CH",
+    "label": "FF \u2192 CH",
+    "support_L": 0.0869565217391304,
+    "support_R": 0.0,
+    "abs_diff": 0.0869565217391304
+  },
+  {
+    "pitch_1": "CH",
+    "pitch_2": "KC",
+    "label": "CH \u2192 KC",
+    "support_L": 0.0913043478260869,
+    "support_R": 0.0,
+    "abs_diff": 0.0913043478260869
+  },
+  {
+    "pitch_1": "KC",
+    "pitch_2": "FC",
+    "label": "KC \u2192 FC",
+    "support_L": 0.0347826086956521,
+    "support_R": 0.1466666666666666,
+    "abs_diff": 0.11188405797101451
+  }
+]

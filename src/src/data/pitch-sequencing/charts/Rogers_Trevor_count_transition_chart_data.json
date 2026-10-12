@@ -1,0 +1,56 @@
+[
+  {
+    "prev_pitch_type": "FC",
+    "next_pitch_type": "SI",
+    "label": "FC \u2192 SI",
+    "support_hitter_ahead": 0.0399467376830892,
+    "support_even": 0.0241545893719806,
+    "support_pitcher_ahead": 0.0046511627906976,
+    "range": 0.0352955748923916
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "ST",
+    "label": "FF \u2192 ST",
+    "support_hitter_ahead": 0.0199733688415446,
+    "support_even": 0.0507246376811594,
+    "support_pitcher_ahead": 0.0573643410852713,
+    "range": 0.0373909722437267
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "CH",
+    "label": "FF \u2192 CH",
+    "support_hitter_ahead": 0.0932090545938748,
+    "support_even": 0.1304347826086956,
+    "support_pitcher_ahead": 0.1317829457364341,
+    "range": 0.0385738911425593
+  },
+  {
+    "prev_pitch_type": "CH",
+    "next_pitch_type": "CH",
+    "label": "CH \u2192 CH",
+    "support_hitter_ahead": 0.0599201065246338,
+    "support_even": 0.0990338164251207,
+    "support_pitcher_ahead": 0.0589147286821705,
+    "range": 0.0401190877429502
+  },
+  {
+    "prev_pitch_type": "CH",
+    "next_pitch_type": "FF",
+    "label": "CH \u2192 FF",
+    "support_hitter_ahead": 0.1025299600532623,
+    "support_even": 0.1014492753623188,
+    "support_pitcher_ahead": 0.0449612403100775,
+    "range": 0.0575687197431848
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "FF",
+    "label": "FF \u2192 FF",
+    "support_hitter_ahead": 0.2197070572569907,
+    "support_even": 0.1690821256038647,
+    "support_pitcher_ahead": 0.2945736434108527,
+    "range": 0.12549151780698797
+  }
+]

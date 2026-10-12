@@ -1,0 +1,50 @@
+[
+  {
+    "pitch_1": "SL",
+    "pitch_2": "FF",
+    "label": "SL \u2192 FF",
+    "support_L": 0.0505836575875486,
+    "support_R": 0.1276595744680851,
+    "abs_diff": 0.0770759168805365
+  },
+  {
+    "pitch_1": "SL",
+    "pitch_2": "SI",
+    "label": "SL \u2192 SI",
+    "support_L": 0.0077821011673151,
+    "support_R": 0.0904255319148936,
+    "abs_diff": 0.08264343074757849
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "FF",
+    "label": "FF \u2192 FF",
+    "support_L": 0.1828793774319066,
+    "support_R": 0.0797872340425532,
+    "abs_diff": 0.10309214338935341
+  },
+  {
+    "pitch_1": "FS",
+    "pitch_2": "FF",
+    "label": "FS \u2192 FF",
+    "support_L": 0.1828793774319066,
+    "support_R": 0.0585106382978723,
+    "abs_diff": 0.1243687391340343
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "SL",
+    "label": "FF \u2192 SL",
+    "support_L": 0.0428015564202334,
+    "support_R": 0.1702127659574468,
+    "abs_diff": 0.1274112095372134
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "FS",
+    "label": "FF \u2192 FS",
+    "support_L": 0.2101167315175097,
+    "support_R": 0.0797872340425532,
+    "abs_diff": 0.1303294974749565
+  }
+]

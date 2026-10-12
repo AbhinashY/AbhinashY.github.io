@@ -1,0 +1,56 @@
+[
+  {
+    "prev_pitch_type": "CU",
+    "next_pitch_type": "FS",
+    "label": "CU \u2192 FS",
+    "support_hitter_ahead": 0.044709388971684,
+    "support_even": 0.0588235294117647,
+    "support_pitcher_ahead": 0.0767543859649122,
+    "range": 0.0320449969932282
+  },
+  {
+    "prev_pitch_type": "CU",
+    "next_pitch_type": "FF",
+    "label": "CU \u2192 FF",
+    "support_hitter_ahead": 0.07451564828614,
+    "support_even": 0.0294117647058823,
+    "support_pitcher_ahead": 0.0460526315789473,
+    "range": 0.0451038835802577
+  },
+  {
+    "prev_pitch_type": "FS",
+    "next_pitch_type": "FF",
+    "label": "FS \u2192 FF",
+    "support_hitter_ahead": 0.0581222056631892,
+    "support_even": 0.0816993464052287,
+    "support_pitcher_ahead": 0.0307017543859649,
+    "range": 0.05099759201926381
+  },
+  {
+    "prev_pitch_type": "FS",
+    "next_pitch_type": "FS",
+    "label": "FS \u2192 FS",
+    "support_hitter_ahead": 0.0640834575260804,
+    "support_even": 0.1045751633986928,
+    "support_pitcher_ahead": 0.0263157894736842,
+    "range": 0.0782593739250086
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "FS",
+    "label": "FF \u2192 FS",
+    "support_hitter_ahead": 0.0387481371087928,
+    "support_even": 0.0980392156862745,
+    "support_pitcher_ahead": 0.125,
+    "range": 0.0862518628912072
+  },
+  {
+    "prev_pitch_type": "FF",
+    "next_pitch_type": "FF",
+    "label": "FF \u2192 FF",
+    "support_hitter_ahead": 0.1967213114754098,
+    "support_even": 0.1209150326797385,
+    "support_pitcher_ahead": 0.25,
+    "range": 0.1290849673202615
+  }
+]

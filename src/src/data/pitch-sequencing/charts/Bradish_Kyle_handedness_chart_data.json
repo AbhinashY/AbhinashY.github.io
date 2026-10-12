@@ -1,0 +1,50 @@
+[
+  {
+    "pitch_1": "CU",
+    "pitch_2": "FF",
+    "label": "CU \u2192 FF",
+    "support_L": 0.1787941787941788,
+    "support_R": 0.0095541401273885,
+    "abs_diff": 0.1692400386667903
+  },
+  {
+    "pitch_1": "CU",
+    "pitch_2": "CU",
+    "label": "CU \u2192 CU",
+    "support_L": 0.2162162162162162,
+    "support_R": 0.019108280254777,
+    "abs_diff": 0.1971079359614392
+  },
+  {
+    "pitch_1": "FF",
+    "pitch_2": "SI",
+    "label": "FF \u2192 SI",
+    "support_L": 0.2681912681912682,
+    "support_R": 0.0700636942675159,
+    "abs_diff": 0.1981275739237523
+  },
+  {
+    "pitch_1": "SI",
+    "pitch_2": "SL",
+    "label": "SI \u2192 SL",
+    "support_L": 0.1683991683991684,
+    "support_R": 0.4299363057324841,
+    "abs_diff": 0.2615371373333157
+  },
+  {
+    "pitch_1": "SL",
+    "pitch_2": "SI",
+    "label": "SL \u2192 SI",
+    "support_L": 0.1496881496881497,
+    "support_R": 0.4490445859872611,
+    "abs_diff": 0.2993564362991114
+  },
+  {
+    "pitch_1": "SL",
+    "pitch_2": "SL",
+    "label": "SL \u2192 SL",
+    "support_L": 0.0748440748440748,
+    "support_R": 0.3853503184713376,
+    "abs_diff": 0.3105062436272628
+  }
+]

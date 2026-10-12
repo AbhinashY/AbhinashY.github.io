@@ -1,0 +1,50 @@
+[
+  {
+    "pitch_1": "FF",
+    "pitch_2": "FC",
+    "label": "FF \u2192 FC",
+    "support_L": 0.110655737704918,
+    "support_R": 0.0057142857142857,
+    "abs_diff": 0.1049414519906323
+  },
+  {
+    "pitch_1": "CU",
+    "pitch_2": "FC",
+    "label": "CU \u2192 FC",
+    "support_L": 0.180327868852459,
+    "support_R": 0.0742857142857142,
+    "abs_diff": 0.10604215456674479
+  },
+  {
+    "pitch_1": "FC",
+    "pitch_2": "CU",
+    "label": "FC \u2192 CU",
+    "support_L": 0.180327868852459,
+    "support_R": 0.0342857142857142,
+    "abs_diff": 0.1460421545667448
+  },
+  {
+    "pitch_1": "ST",
+    "pitch_2": "SI",
+    "label": "ST \u2192 SI",
+    "support_L": 0.0040983606557377,
+    "support_R": 0.1542857142857142,
+    "abs_diff": 0.15018735362997648
+  },
+  {
+    "pitch_1": "SI",
+    "pitch_2": "SI",
+    "label": "SI \u2192 SI",
+    "support_L": 0.2008196721311475,
+    "support_R": 0.3657142857142857,
+    "abs_diff": 0.16489461358313823
+  },
+  {
+    "pitch_1": "SI",
+    "pitch_2": "ST",
+    "label": "SI \u2192 ST",
+    "support_L": 0.0,
+    "support_R": 0.1714285714285714,
+    "abs_diff": 0.1714285714285714
+  }
+]

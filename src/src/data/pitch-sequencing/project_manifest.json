@@ -1,0 +1,113 @@
+{
+  "project": "Orioles pitch sequencing analyzer",
+  "core_pitchers": [
+    {
+      "safe_name": "Rogers_Trevor",
+      "display_name": "Trevor Rogers",
+      "plots": {
+        "handedness_png": "plots/Rogers_Trevor_handedness_comparison.png",
+        "two_strike_png": "plots/Rogers_Trevor_two_strike_handedness_comparison.png",
+        "count_png": "plots/Rogers_Trevor_count_transition_comparison.png"
+      },
+      "chart_data": {
+        "handedness_csv": "chart_data/Rogers_Trevor_handedness_chart_data.csv",
+        "handedness_json": "chart_data/Rogers_Trevor_handedness_chart_data.json",
+        "two_strike_csv": "chart_data/Rogers_Trevor_two_strike_handedness_chart_data.csv",
+        "two_strike_json": "chart_data/Rogers_Trevor_two_strike_handedness_chart_data.json",
+        "count_csv": "chart_data/Rogers_Trevor_count_transition_chart_data.csv",
+        "count_json": "chart_data/Rogers_Trevor_count_transition_chart_data.json"
+      }
+    },
+    {
+      "safe_name": "Baz_Shane",
+      "display_name": "Shane Baz",
+      "plots": {
+        "handedness_png": "plots/Baz_Shane_handedness_comparison.png",
+        "two_strike_png": "plots/Baz_Shane_two_strike_handedness_comparison.png",
+        "count_png": "plots/Baz_Shane_count_transition_comparison.png"
+      },
+      "chart_data": {
+        "handedness_csv": "chart_data/Baz_Shane_handedness_chart_data.csv",
+        "handedness_json": "chart_data/Baz_Shane_handedness_chart_data.json",
+        "two_strike_csv": "chart_data/Baz_Shane_two_strike_handedness_chart_data.csv",
+        "two_strike_json": "chart_data/Baz_Shane_two_strike_handedness_chart_data.json",
+        "count_csv": "chart_data/Baz_Shane_count_transition_chart_data.csv",
+        "count_json": "chart_data/Baz_Shane_count_transition_chart_data.json"
+      }
+    },
+    {
+      "safe_name": "Young_Brandon",
+      "display_name": "Brandon Young",
+      "plots": {
+        "handedness_png": "plots/Young_Brandon_handedness_comparison.png",
+        "two_strike_png": "plots/Young_Brandon_two_strike_handedness_comparison.png",
+        "count_png": "plots/Young_Brandon_count_transition_comparison.png"
+      },
+      "chart_data": {
+        "handedness_csv": "chart_data/Young_Brandon_handedness_chart_data.csv",
+        "handedness_json": "chart_data/Young_Brandon_handedness_chart_data.json",
+        "two_strike_csv": "chart_data/Young_Brandon_two_strike_handedness_chart_data.csv",
+        "two_strike_json": "chart_data/Young_Brandon_two_strike_handedness_chart_data.json",
+        "count_csv": "chart_data/Young_Brandon_count_transition_chart_data.csv",
+        "count_json": "chart_data/Young_Brandon_count_transition_chart_data.json"
+      }
+    },
+    {
+      "safe_name": "Bassitt_Chris",
+      "display_name": "Chris Bassitt",
+      "plots": {
+        "handedness_png": "plots/Bassitt_Chris_handedness_comparison.png",
+        "two_strike_png": "plots/Bassitt_Chris_two_strike_handedness_comparison.png",
+        "count_png": "plots/Bassitt_Chris_count_transition_comparison.png"
+      },
+      "chart_data": {
+        "handedness_csv": "chart_data/Bassitt_Chris_handedness_chart_data.csv",
+        "handedness_json": "chart_data/Bassitt_Chris_handedness_chart_data.json",
+        "two_strike_csv": "chart_data/Bassitt_Chris_two_strike_handedness_chart_data.csv",
+        "two_strike_json": "chart_data/Bassitt_Chris_two_strike_handedness_chart_data.json",
+        "count_csv": "chart_data/Bassitt_Chris_count_transition_chart_data.csv",
+        "count_json": "chart_data/Bassitt_Chris_count_transition_chart_data.json"
+      }
+    },
+    {
+      "safe_name": "Bradish_Kyle",
+      "display_name": "Kyle Bradish",
+      "plots": {
+        "handedness_png": "plots/Bradish_Kyle_handedness_comparison.png",
+        "two_strike_png": "plots/Bradish_Kyle_two_strike_handedness_comparison.png",
+        "count_png": "plots/Bradish_Kyle_count_transition_comparison.png"
+      },
+      "chart_data": {
+        "handedness_csv": "chart_data/Bradish_Kyle_handedness_chart_data.csv",
+        "handedness_json": "chart_data/Bradish_Kyle_handedness_chart_data.json",
+        "two_strike_csv": "chart_data/Bradish_Kyle_two_strike_handedness_chart_data.csv",
+        "two_strike_json": "chart_data/Bradish_Kyle_two_strike_handedness_chart_data.json",
+        "count_csv": "chart_data/Bradish_Kyle_count_transition_chart_data.csv",
+        "count_json": "chart_data/Bradish_Kyle_count_transition_chart_data.json"
+      }
+    },
+    {
+      "safe_name": "Eflin_Zach",
+      "display_name": "Zach Eflin",
+      "plots": {
+        "handedness_png": "plots/Eflin_Zach_handedness_comparison.png",
+        "two_strike_png": "plots/Eflin_Zach_two_strike_handedness_comparison.png",
+        "count_png": "plots/Eflin_Zach_count_transition_comparison.png"
+      },
+      "chart_data": {
+        "handedness_csv": "chart_data/Eflin_Zach_handedness_chart_data.csv",
+        "handedness_json": "chart_data/Eflin_Zach_handedness_chart_data.json",
+        "two_strike_csv": "chart_data/Eflin_Zach_two_strike_handedness_chart_data.csv",
+        "two_strike_json": "chart_data/Eflin_Zach_two_strike_handedness_chart_data.json",
+        "count_csv": "chart_data/Eflin_Zach_count_transition_chart_data.csv",
+        "count_json": "chart_data/Eflin_Zach_count_transition_chart_data.json"
+      }
+    }
+  ],
+  "summary_files": {
+    "report_csv": "pitcher_summary_report.csv",
+    "report_json": "pitcher_summary_report.json",
+    "core_csv": "pitcher_summary_core.csv",
+    "core_json": "pitcher_summary_core.json"
+  }
+}
