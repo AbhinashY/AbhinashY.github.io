@@ -13,8 +13,8 @@ export const PITCHERS = [
 ]
 
 const HANDEDNESS_SERIES = [
-  { key: 'support_L', label: 'vs LHB', color: '#2e6db0' },
-  { key: 'support_R', label: 'vs RHB', color: '#e58529' },
+  { key: 'support_L', label: 'vs LHB', color: '#f59e0b' },
+  { key: 'support_R', label: 'vs RHB', color: '#d1d5db' },
 ]
 
 export const VIEW_ORDER = ['handedness', 'twoStrike', 'count']
@@ -58,9 +58,9 @@ export const VIEWS = {
     plotSuffix: 'count_transition_comparison',
     diffKey: 'range',
     series: [
-      { key: 'support_hitter_ahead', label: 'hitter ahead', color: '#c44e52' },
+      { key: 'support_hitter_ahead', label: 'hitter ahead', color: '#f59e0b' },
       { key: 'support_even', label: 'even', color: '#7a7a7a' },
-      { key: 'support_pitcher_ahead', label: 'pitcher ahead', color: '#4c9a62' },
+      { key: 'support_pitcher_ahead', label: 'pitcher ahead', color: '#f3f4f6' },
     ],
   },
 }
