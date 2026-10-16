@@ -12,16 +12,7 @@ const projects = [
     link: "#pitch-sequencing",
     linkLabel: "View Project",
   },
-  {
-    number: "02",
-    category: "MACHINE LEARNING",
-    title: "Tennis Match Prediction — Roland Garros",
-    description:
-      "Built a decision tree model to predict likely match winners based on player and match variables.",
-    tools: ["Python", "Pandas", "Scikit-learn", "Excel"],
-    link: null,
-    linkLabel: "Coming Soon",
-  },
+  
 ];
 
 const skills = [
@@ -85,7 +76,7 @@ function App() {
               </a>
 
               <a
-                href="https://github.com/YOUR-USERNAME"
+                href="https://github.com/AbhinashY/AbhinashY-portfolio"
                 target="_blank"
                 rel="noreferrer"
                 className="button button-secondary"
